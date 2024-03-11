@@ -1,2 +1,2 @@
-# Portfolio
-My Portfolio as a web developer
+# Rock Paper Scissors
+Simple Rock Paper Scissors game
